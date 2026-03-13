@@ -1,23 +1,8 @@
+---
+---
 @import "minima";
 
-/* Dark mode */
-@media (prefers-color-scheme: dark) {
-  body {
-    background-color: #121212;
-    color: #e6e6e6;
-  }
-
-  a {
-    color: #8ab4f8;
-  }
-
-  .site-header,
-  .site-footer {
-    background-color: #1a1a1a;
-    border-color: #333;
-  }
-
-  .post-content {
-    color: #e6e6e6;
-  }
+body {
+  background-color: #121212;
+  color: #e6e6e6;
 }
