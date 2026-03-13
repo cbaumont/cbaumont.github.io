@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="./assets/img/photo.png" width="200" height="200" style="vertical-align: middle; margin-right: 10px;">
+<img src="/assets/img/photo.png" width="200" height="200" style="vertical-align: middle; margin-right: 10px;">
 <br><br>
 
 Brazilian Software Engineer living in the UK. Passionate about building well-tested systems and driving engineering excellence through automation and collaboration.
