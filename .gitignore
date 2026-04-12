@@ -1,0 +1,20 @@
+# Hugo
+public/
+resources/
+.hugo_build.lock
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Node (if using Hugo pipes/tooling)
+node_modules/
+
+.claude/

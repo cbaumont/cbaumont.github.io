@@ -1,0 +1,77 @@
+baseURL = 'https://cbaumont.github.io/'
+locale = 'en-us'
+title = 'Carlos Baumont'
+theme = 'nightfall'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[pagination]
+pagerSize = 10
+
+[menu]
+  [[menu.header]]
+    name = "blog"
+    weight = 0
+    url = "blog"
+  [[menu.header]]
+    name = "about"
+    weight = 1
+    url = "about"
+
+[params]
+sitedescription = 'My personal blog.'
+openLinksInNewTab = true
+displayDateFormat = "2006-01-02"
+user = "cbaumont"
+hostname = "github.io"
+
+showMetadata = true
+showPublishedDate = true
+showReadingTime = true
+showTags = true
+showAuthors = true
+showCategories = true
+
+  [params.author]
+    name = "Carlos Baumont"
+    email = "baumont.carlos@gmail.com"
+    avatar = "/img/photo.png"
+
+  [params.styles]
+    color = "orange"
+
+[[params.social]]
+key = 0
+name = "github"
+url = "https://github.com/cbaumont"
+target = "_blank"
+aria = "GitHub"
+
+[[params.social]]
+key = 1
+name = "twitter"
+url = "https://twitter.com/baumontt"
+target = "_blank"
+aria = "Twitter"
+
+[[params.social]]
+key = 2
+name = "linkedin"
+url = "https://www.linkedin.com/in/baumont/"
+target = "_blank"
+aria = "LinkedIn"
+
+[[params.social]]
+key = 3
+name = "email"
+url = "mailto:baumont.carlos@gmail.com"
+aria = "Email"
+
+[outputs]
+home = ["HTML", "RSS"]
+
+[outputFormats.RSS]
+baseName = "feed"
