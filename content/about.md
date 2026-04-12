@@ -1,11 +1,11 @@
 +++
 title = "About"
-description = "About Carlos Baumont"
+description = "A little bit about me"
 date = "2024-02-17"
 aliases = ["about-me"]
 author = "Carlos Baumont"
 +++
 
-Brazilian Software Engineer living in the UK. Passionate about building well-tested systems and driving engineering excellence through automation and collaboration.
+Olá! I'm a Brazilian software engineer based in the UK. I love building well-tested, reliable systems and I'm a firm believer that good automation and collaboration make great software possible.
 
-If you're interested in what I've been working on, check out [Abacato Games on Github](https://github.com/abacatogames). You can also find me on [LinkedIn](https://www.linkedin.com/in/baumont/).
+When I'm not at work, I tinker on [Abacato Games](https://github.com/abacatogames). Take a look if you're curious!

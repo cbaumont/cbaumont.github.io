@@ -22,11 +22,12 @@ pagerSize = 10
     url = "about"
 
 [params]
-sitedescription = 'My personal blog.'
+sitedescription = 'My personal site/blog.'
 openLinksInNewTab = true
 displayDateFormat = "2006-01-02"
-user = "cbaumont"
-hostname = "github.io"
+
+user = "home"
+hostname = "cbaumont"
 
 showMetadata = true
 showPublishedDate = true
